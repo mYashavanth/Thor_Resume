@@ -4,7 +4,7 @@ Welcome to Thor's personal portfolio website! This project showcases Thor's skil
 
 ## Preview
 
-![Thor's Portfolio](./8331738.jpg)
+![Thor's Portfolio](./Preview.png)
 
 ## Technologies Used
 
